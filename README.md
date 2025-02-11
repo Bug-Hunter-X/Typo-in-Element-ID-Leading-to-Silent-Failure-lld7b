@@ -1,0 +1,1 @@
+This repository demonstrates a subtle HTML bug where a typo in an element's ID prevents a JavaScript function from working correctly. The bug is silent; no error messages are thrown, leading to unexpected behavior. The solution involves carefully checking the spelling and case of element IDs.
